@@ -1,0 +1,6 @@
+transformers
+feedparser
+requests
+torch 
+torchvision 
+torchaudio
