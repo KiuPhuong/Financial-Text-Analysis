@@ -11,9 +11,11 @@ Negative — Tiêu cực
 Cài đặt
 1. Clone repository
 git clone https://github.com/KiuPhuong/Financial-Text-Analysis.git
+
 cd Financial-Text-Analysis
 2. Tạo môi trường Python
 conda create -n financial-nlp python=3.10 -y
+
 conda activate financial-nlp
 3. Cài đặt các thư viện từ requirements.txt
 pip install -r requirements.txt
