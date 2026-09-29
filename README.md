@@ -2,7 +2,7 @@
 
 ##  Giới thiệu
 
-**Financial Text Analysis** là một project ứng dụng Natural Language Processing (NLP) để phân tích cảm xúc (*sentiment analysis*) của các bài viết và tin tức tài chính.
+Financial Text Analysis là một project ứng dụng Natural Language Processing (NLP) để phân tích cảm xúc (*sentiment analysis*) của các bài viết và tin tức tài chính.
 
 Project sử dụng mô hình FinBERT (`ProsusAI/finbert`) — một mô hình BERT được huấn luyện chuyên biệt trên dữ liệu tài chính — để phân loại văn bản thành 3 nhóm:
 
